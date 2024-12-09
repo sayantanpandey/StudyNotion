@@ -1,5 +1,5 @@
 {
-  "name": "react-tailwind-css-starter-pack",
+  "name": "studynotion-mega-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,11 +32,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "git+https://github.com/sayantanpandey/StudyNotion.git"
   },
-  "author": "Pranay Gupta",
+  "author": "Sayantan Pandey",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/sayantanpandey/StudyNotion.git"
   },
   "scripts": {
     "start": "react-scripts start",
